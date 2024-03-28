@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px){
+    html{
+        overflow-x: hidden;
+    }
+    nav{
+        font-size: 10px;
+        padding: 1%;
+    }
+    section{
+        height: 60vh;
+    }
+    .head-main{
+        font-size: 2rem;
+        padding-top: 10%;
+    }
+    .first-paragraph{
+        position: relative;
+        color: aliceblue;
+        font-size: 1rem;
+        text-align: center;
+        width: 90%;
+        padding: 2%;
+       left: 5%;
+    }
+    .Button1{
+        width: 45%;
+    }
+    .icon{
+        width: 12%;
+    }
+    .logo{
+        left: 35%;
+    }
+}
+@media only screen and(max-width:890px) {
+    html{
+        overflow-x: hidden;
+    }
+}
